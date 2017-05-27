@@ -64,9 +64,5 @@ class MainActivity : AppCompatActivity() {
     
 }
 
- ```java
- 
- 不写findViewById.直接用布局中控件的id
- 
- ```
+ `不写findViewById.直接用布局中控件的id`
 
