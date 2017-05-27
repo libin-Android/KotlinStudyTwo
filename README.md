@@ -30,8 +30,6 @@ Kotlin是JetBrains开发的基于JVM的语言，JetBrains想必大家应该很�
 
 ### 1.File ----》setting -----》plugins----》搜索kotlin，现在安装，重新启动studio
 ### 2.添加完你就会发现多了new file 时候多了两个选项，如下图![](https://github.com/libin-Android/KotlinStudyOne/blob/master/a.png)
-### 3.快捷添加kotlin支持![](https://github.com/libin-Android/KotlinStudyOne/blob/master/b.png),project中的build配置![](https://github.com/libin-Android/KotlinStudyOne/blob/master/c.png)，module中的build文件![](https://github.com/libin-Android/KotlinStudyOne/blob/master/d.png)和依赖包![](https://github.com/libin-Android/KotlinStudyOne/blob/master/e.png)
-### 4.把activity转换成kotlin的，文件后缀变成.kt ![](https://github.com/libin-Android/KotlinStudyOne/blob/master/f.png)
 
 最后在代码中使用kotlin
 ==========================
