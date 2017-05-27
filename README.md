@@ -29,7 +29,15 @@ Kotlin是JetBrains开发的基于JVM的语言，JetBrains想必大家应该很�
 
 
 ### 1.File ----》setting -----》plugins----》搜索kotlin，现在安装，重新启动studio
-### 2.添加完你就会发现多了new file 时候多了两个选项，如下图![](https://github.com/libin-Android/KotlinStudyOne/blob/master/a.png)
+
+### 2.添加完你就会发现多了new file 时候多了两个选项，如下图![](https://github.com/libin-Android/KotlinStudyTwo/blob/master/a.png)
+
+### 3.在studio中配置kotlin，如下图![](https://github.com/libin-Android/KotlinStudyTwo/blob/master/b.png)
+
+### 4.配置kotlin完，查看project的build和module的build，如下图![](https://github.com/libin-Android/KotlinStudyTwo/blob/master/c.png) ![](https://github.com/libin-Android/KotlinStudyTwo/blob/master/d.png) ![](https://github.com/libin-Android/KotlinStudyTwo/blob/master/e.png)
+
+### 5.最后介绍功能最强大的java代码转换成kotlin代码，，，而且studio自动转换，无需自己重写，如下图
+![](https://github.com/libin-Android/KotlinStudyTwo/blob/master/f.png)
 
 最后在代码中使用kotlin
 ==========================
@@ -56,6 +64,9 @@ class MainActivity : AppCompatActivity() {
     
 }
 
- ` 不写findViewById.直接用布局中控件的id `
- ? 
+ ```java
+ 
+ 不写findViewById.直接用布局中控件的id
+ 
+ ```
 
