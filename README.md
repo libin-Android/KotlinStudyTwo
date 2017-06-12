@@ -1,6 +1,8 @@
 # KotlinStudy
 使用Kotlin写Hello Word
 ========================
+（借助别人的话表达自己的观点。。。不要说我侵权呦。。。）
+
 最近谷歌IO大会, 把kotlin纳入了Android开发首选语言, 估计这与谷歌和Oracle一直在打官司的缘故分不开吧, 而且kotlin本身就很好用,
 
 而且kotlin-native是基于自己的runtime, 之前讲了 [android studio3.0预览版使用kotlin], 但是很多涌进来的新人在android studio2.0中使用kotlin有问题
